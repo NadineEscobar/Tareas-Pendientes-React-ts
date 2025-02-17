@@ -6,10 +6,11 @@
 - 👨 💻 Todos mis proyectos están disponibles en [https://nadineescobar.github.io/Mi-Porta/](https://nadineescobar.github.io/Mi-Porta/)
 
 - 📫 Cómo contactarme **nadineescobar03@gmail.com**
+- Puedes visitiar el sitio en: [https://lista-de-tareas-react-typescript-1.netlify.app/](https://lista-de-tareas-react-typescript-1.netlify.app/)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nadine escobar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadine escobar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/NadineEscobar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadine escobar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y Herramientas:</h3>
